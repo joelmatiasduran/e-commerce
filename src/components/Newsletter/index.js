@@ -14,7 +14,9 @@ const Newsletter = () => {
     <>
       <Container>
         <Title>Newsletter</Title>
-        <Description></Description>
+        <Description>
+          Get timely updates from your favorite products
+        </Description>
         <InputContainer>
           <Input placeholder="Your E-mail" />
           <Button>
