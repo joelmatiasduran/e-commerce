@@ -40,4 +40,10 @@ export const Button = styled.button`
   border: none;
   background-color: teal;
   color: white;
+  cursor: pointer;
+  transition: all ease 0.2s;
+  &:active {
+    background-color: white;
+    color: teal;
+  }
 `;
